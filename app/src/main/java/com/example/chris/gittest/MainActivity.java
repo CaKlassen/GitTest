@@ -11,7 +11,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    // This is a comment
+    // This is a comment wow
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
